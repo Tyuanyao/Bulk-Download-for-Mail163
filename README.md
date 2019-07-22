@@ -8,7 +8,7 @@ This repository include  the code for Bulk Download in 163 mailbox, it has two s
 I write this code for the convience of quickly receiving the students' homework from 163 mail box since I start to be a TA at the university last year 2018.
 
 ### what is the convience?
-By running this code, you can download the mail attachements in bulk by setting the time period you want, i.e. change the value of variable **upper** and **lower** in the code, and you are no longer need to open every mail to download the mail attachment one by one, which is really exhuasted if you have over 100 students in the class like me.
+By running this code, you can download the mail attachements in bulk by setting the time period you want, i.e. change the value of variables **upper** and **lower** in the code, and you no longer need to open every mail to download the mail attachment one by one, which is really exhuasted if you have over 100 students in the class like me.
 
 If your university have the system to receive homeworks from every student online, I admire you.
 
